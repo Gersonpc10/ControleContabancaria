@@ -1,5 +1,17 @@
 Este é o primeiro projeto da Especialização em Back-End promovido pelo programa ONE em parceria com a Alura. Certamente será uma grande jornada pela frente.
 
+Neste curso foram abordados os seguintes pontos: 
+* Configuração de ambiente e instalação de IDE Intellij;
+* As diferenças entre JVM (Java Virtual Machine), JRE (Java Runtime Environmente) e JDK(Java Development Kit);
+* Trabalhar conceitos de variáveis, loops e leitura de dados, juntamente com lógica de programação;
+* Tipos primitivo: Inteiros, Ponto Flutuante, Char e Boolean;
+* Switch Case: Uma forma de escrever vários blocos de if/else encadeados;
+* 
+
+
+
+
+
 Ao final deste curso foi proposto um desafio onde foi bem dasafiado, abaixo segue os critérios exigidos para conclusão do desafio.  
 
 # Desafio
